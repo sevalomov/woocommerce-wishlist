@@ -1,3 +1,5 @@
+How to Create Your Own AJAX WooCommerce Wishlist Plugin in Popup Window
+
 A simple ajax plugin for wukomers wishlists. I'm not an expert in PHP only modifying and finishing off a ready-made plugin.
 
 You can get acquainted with the plugin in full on the website:
